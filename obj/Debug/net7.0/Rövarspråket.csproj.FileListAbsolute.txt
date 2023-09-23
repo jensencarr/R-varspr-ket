@@ -1,0 +1,14 @@
+C:\Users\kalle\source\repos\Rövarspråket\bin\Debug\net7.0\Rövarspråket.exe
+C:\Users\kalle\source\repos\Rövarspråket\bin\Debug\net7.0\Rövarspråket.deps.json
+C:\Users\kalle\source\repos\Rövarspråket\bin\Debug\net7.0\Rövarspråket.runtimeconfig.json
+C:\Users\kalle\source\repos\Rövarspråket\bin\Debug\net7.0\Rövarspråket.dll
+C:\Users\kalle\source\repos\Rövarspråket\bin\Debug\net7.0\Rövarspråket.pdb
+C:\Users\kalle\source\repos\Rövarspråket\obj\Debug\net7.0\Rövarspråket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalle\source\repos\Rövarspråket\obj\Debug\net7.0\Rövarspråket.AssemblyInfoInputs.cache
+C:\Users\kalle\source\repos\Rövarspråket\obj\Debug\net7.0\Rövarspråket.AssemblyInfo.cs
+C:\Users\kalle\source\repos\Rövarspråket\obj\Debug\net7.0\Rövarspråket.csproj.CoreCompileInputs.cache
+C:\Users\kalle\source\repos\Rövarspråket\obj\Debug\net7.0\Rövarspråket.dll
+C:\Users\kalle\source\repos\Rövarspråket\obj\Debug\net7.0\refint\Rövarspråket.dll
+C:\Users\kalle\source\repos\Rövarspråket\obj\Debug\net7.0\Rövarspråket.pdb
+C:\Users\kalle\source\repos\Rövarspråket\obj\Debug\net7.0\Rövarspråket.genruntimeconfig.cache
+C:\Users\kalle\source\repos\Rövarspråket\obj\Debug\net7.0\ref\Rövarspråket.dll

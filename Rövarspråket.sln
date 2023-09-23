@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rövarspråket", "Rövarspråket.csproj", "{05FAB08D-1D14-4023-AD1A-706E16CD49EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05FAB08D-1D14-4023-AD1A-706E16CD49EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FAB08D-1D14-4023-AD1A-706E16CD49EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FAB08D-1D14-4023-AD1A-706E16CD49EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FAB08D-1D14-4023-AD1A-706E16CD49EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15D280BF-7178-4266-9043-B8A77EDAEEC8}
+	EndGlobalSection
+EndGlobal
